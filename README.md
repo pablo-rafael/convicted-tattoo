@@ -63,10 +63,3 @@ cd convicted-tattoo
 ```
 
 Abra o arquivo index.html diretamente em seu navegador padrão ou utilize extensões como o Live Server no VS Code para desenvolvimento em tempo real.
-
-✉️ Contato & Redes Sociais
-Desenvolvido para fins profissionais e acadêmicos. Conecte-se com o projeto:
-
-Instagram: @rafafk_tattoo
-
-WhatsApp Comercial: (85) 99688-9541

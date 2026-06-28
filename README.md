@@ -45,3 +45,29 @@ A arquitetura do projeto prioriza performance e leveza, utilizando tecnologias w
 ├── index.html                 # Estrutura principal da Landing Page
 ├── styles.css                 # Folha de estilo CSS (Estilização Geral e Media Queries)
 └── scripts.js                 # Lógica do menu retrátil e comportamento do scroll
+
+🚀 Como Executar o Projeto Localmente
+Não há necessidade de instalar dependências complexas ou rodar servidores de compilação.
+
+Clone este repositório para sua máquina local:
+
+´´´
+Bash
+git clone [https://github.com/seu-usuario/convicted-tattoo.git](https://github.com/seu-usuario/convicted-tattoo.git)
+´´´
+
+Navegue até a pasta do projeto:
+
+´´´
+Bash
+cd convicted-tattoo
+´´´
+
+Abra o arquivo index.html diretamente em seu navegador padrão ou utilize extensões como o Live Server no VS Code para desenvolvimento em tempo real.
+
+✉️ Contato & Redes Sociais
+Desenvolvido para fins profissionais e acadêmicos. Conecte-se com o projeto:
+
+Instagram: @rafafk_tattoo
+
+WhatsApp Comercial: (85) 99688-9541

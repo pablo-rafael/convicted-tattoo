@@ -1,6 +1,6 @@
 # ⚡ Convicted Tattoo
 
-Uma landing page responsiva, moderna e de alta conversão projetada especialmente para estúdios ou artistas de tatuagem. O site atua como um guia instrutivo completo, sanando as principais dúvidas de clientes sobre o processo de fazer uma tatuagem, englobando desde a biologia da dor até cuidados cruciais pré e pós-sessão.
+Uma landing page responsiva, projetada especialmente para estúdios ou artistas de tatuagem. O site atua como um guia instrutivo completo, sanando as principais dúvidas de clientes sobre o processo de fazer uma tatuagem, englobando desde a biologia da dor até cuidados cruciais pré e pós-sessão.
 
 ---
 
